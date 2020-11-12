@@ -1,2 +1,2 @@
-# POOP6V2
-Practica 6 de POO, enfocada a la documentación, manejo de paqueteria y repositorios.
+# POOP6
+Practica 6 de POO, proyectos, repositorios en github y documentación del lenguaje java, 
